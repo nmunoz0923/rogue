@@ -1,0 +1,131 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    text-transform: uppercase;
+    padding:5px 0px;
+}
+
+h1 {
+	font-size: 22px bold;
+	float: left;
+	margin: 30px;
+	margin-left: 10px;
+}
+
+span {
+  color: #77a466;
+}
+
+nav {
+	float: right;
+	font-size:15px;
+	padding: 0px 50px;
+	padding-right: 0px;
+}
+
+nav ul li {
+	display: inline-block;
+	padding: 20px;
+	color: #77a466;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-right:20px;
+}
+
+.third-width {
+	width: 400px;
+	float: left;
+}
+
+.full-width {
+	float:left;
+	width: 1490px;
+}
+
+header {
+	height:650px;
+	background: url('../img/background.png');
+	background-size: cover;
+}
+
+footer {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: black;
+	border-top: 1px solid grey;
+	text-align:center;
+}
+
+footer p span {
+	font-family: 'Dancing Script', cursive;
+	font-size: 25px
+}
+
+img {
+	width: 1490px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border-bottom: 4px solid #77a466;
+	border-top:4px solid #77a466;
+}
+
+h2 {
+	font-size: 12px bold;
+	color: #77a466;
+	padding-left: 10px;
+}
+
+h3 {
+	font-size: 16px;
+	color: black;
+	margin:5px;
+	padding:0px;
+	text-transform: uppercase;
+}
+
+p {
+	margin: 20px 0 10px 10px;
+	font-size:16px;
+	line-height: 30px;
+	text-transform: none;
+}
+
+.row-of-three {
+	color:black;
+	list-style-type: none;
+	margin: 0px;
+}
+
+#one {
+	margin:10px 20px;
+	padding:25px;
+	letter-spacing: 2px
+	color: #77a466 bold
+	text-transform: none;
+}
+#two {
+	border-right:1px solid grey;
+	border-left:1px solid grey;
+	padding:25px;
+}
+
+#three {
+	padding:25px;
+	text-transform: none;
+}
+
+#one span {
+	padding:25px;
+	text-transform: none;
+}
+
+#four {
+	border-top:1px solid black;
+}
+
+li {
+	list-style:none;
+	padding:5px;
+	margin-left:-35px;
+}
